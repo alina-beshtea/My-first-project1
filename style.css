@@ -1,0 +1,31 @@
+h1.{
+  color: navy;
+  text-align: center;
+  font-style: italic;
+}
+
+.important{
+  color: red;
+}
+
+.special{
+  font-style: italic;
+}
+
+ul. important{
+  color: red;
+}
+
+ul. unimportant{
+  color: blue;
+
+}
+
+p.instructions{
+  font-family: cursive;
+}
+
+img{
+  border: 2px solid purple;
+  background-color: red;
+}
